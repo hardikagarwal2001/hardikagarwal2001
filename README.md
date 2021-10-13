@@ -1,7 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=hardikagarwal2001
 &label=VIEWS&color=brightgreen) -->
-![](https://activity-graph.herokuapp.com/graph?username=hardikagarwal2001
-&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=hardikagarwal2001&theme=react-dark&hide_border=true&area=true)
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
